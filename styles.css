@@ -10,7 +10,7 @@ body {
       font-family: 'Poppins', sans-serif;
       margin: 0;
       height: 100vh;
-      background-color: var(--disabled);
+      background-color: #399af9;
 }
 
 *:first-letter{
